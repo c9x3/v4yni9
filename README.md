@@ -26,11 +26,11 @@ For offline access download the, "HydrogenOffline.tar.gz" and, "NodeServer.tar.g
 
 Latest:
 
-https://c9x3.github.io/HydrogenProject/Hydrogen.html
+https://c9x3.github.io/v4yni9/Hydrogen.html
 
 V1.0
 
-https://c9x3.github.io/HydrogenProject/Hydrogen1.0.html
+https://c9x3.github.io/v4yni9/Hydrogen1.0.html
 
 # The Official Repositories (and websites) for Jummbox and Beepbox:
 
