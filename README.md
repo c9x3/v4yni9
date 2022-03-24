@@ -12,7 +12,7 @@ Hydrogen includes WORKING offline support (which Jummbox does not have.) As well
 
 - https://gitlab.com/S0me1Gr8/HydrogenProject <- Latest code and Main Repository. 
 
-- https://github.com/S0me1Gr8/HydrogenProject <- Web Hosting.
+- https://github.com/c9x3/v4yni9/ <- Web Hosting.
 
 - https://gitlab.com/S0me1Gr8/HydrogenProject/-/raw/main/CHANGELOG.md <- Change-log.
 
@@ -26,11 +26,11 @@ For offline access download the, "HydrogenOffline.tar.gz" and, "NodeServer.tar.g
 
 Latest:
 
-https://s0me1gr8.github.io/HydrogenProject/Hydrogen.html
+https://c9x3.github.io/HydrogenProject/Hydrogen.html
 
 V1.0
 
-https://s0me1gr8.github.io/HydrogenProject/Hydrogen1.0.html
+https://c9x3.github.io/HydrogenProject/Hydrogen1.0.html
 
 # The Official Repositories (and websites) for Jummbox and Beepbox:
 
