@@ -20,7 +20,7 @@ Licensing info:
 
 Hydrogen uses URLS as a means of storing song information. Browser extensions like ClearULRs may corrupt this song information thus, breaking Hydrogen. Reloading Hydrogen without the extension loaded/enabled should resolve this issue.
 
-# Interested in The Hydrogen Project? Access the source code or get involved! 
+# Interested in the Hydrogen Project and want to contribute? 
 
 - https://gitlab.com/c9x3/HydrogenProject <- Latest code and Main Repository. 
 
@@ -30,11 +30,15 @@ Hydrogen uses URLS as a means of storing song information. Browser extensions li
 
 # Access Hydrogen: 
 
+Offline access: 
+
 For offline access download the, "HydrogenOffline.tar.gz" and, "NodeServer.tar.gz" files from the links bellow. 
 
 - https://gitlab.com/c9x3/HydrogenProject/-/raw/main/HydrogenOffline.tar.gz?inline=false
 
 - https://gitlab.com/c9x3/HydrogenProject/-/raw/main/NodeServer.tar.gz?inline=false
+
+Online access: 
 
 Latest:
 
